@@ -8,4 +8,4 @@ Copy and paste command 'git clone git@github.com:gauravruhela07/Support-Vector-M
 
 ### Prerequisites
 
-Before clone this repository, you must have matlab installed on your system.
+Before cloning this repository, you must have matlab installed on your system.
